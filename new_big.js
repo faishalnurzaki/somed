@@ -16,9 +16,9 @@ console.log("");
 console.log("");
 
 const Reff = 'TAMPAN';
-const LooP = 999999999;
+const LooP = 10000;
 const DelaY = 20000;
-const file = domain.txt;
+const file = 'domain.txt';
 
 console.log("");
 console.log("");
